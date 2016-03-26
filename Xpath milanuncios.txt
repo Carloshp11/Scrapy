@@ -1,0 +1,34 @@
+Títulos:
+
+id('cuerpo')/div["x1"]/div[2]/a
+
+Cuerpo:
+
+id('cuerpo')/div["x1"]/div[2]/div[1]
+
+Precio:
+
+id('cuerpo')/div["x1"]/div[2]/div[2]/div[@class='pr']
+
+coche o moto:
+
+id('cuerpo')/div["x1"]/div[2]/div[2]/div[@class='gas']
+
+Next url:
+
+/html/body/div[1]/div[4]/div[2]/table/tbody/tr/td[9]/div/a/@href
+
+provincia:
+
+id('provincia')/option/@value
+
+ciudades:
+
+/html/body/div[1]/div[4]/div[1]/div[2]/div[1]/span[1]/select/option/@value
+
+
+zonas:
+
+/html/body/div[1]/div[4]/div[1]/div[2]/div[1]/span[2]/select/option/@value
+
+
